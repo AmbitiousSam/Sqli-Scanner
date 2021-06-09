@@ -9,6 +9,7 @@
 	echo -e "\033[0m"
 	printf "  +=============================================+"'\n'
 	printf "  |      Mass Vuln Web SQL Injection Scanner    |"'\n'
+	printf "  |                               by - sivakumar|"'\n'
 	printf "  +=============================================+"'\n''\n'
 
 
