@@ -2,8 +2,7 @@
 # sqlmap -m sqli --batch --random-agent --level 1
 
 #!/bin/bash
-	# I built this tool because bored with the LockDown
-	# Ratnadip Gajbhiye
+
 
 	echo `clear`;
 	echo -e "\033[0m"
